@@ -10,8 +10,9 @@ export default defineConfig({
 
   // head 标签
   head: [
-    ['meta', { name: 'theme-color', content: '#ffffff' }],
+    ['meta', { name: 'theme-color', content: '#1e1e2e' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
+    ['meta', { name: 'color-scheme', content: 'dark light' }],
   ],
 
   themeConfig: {
