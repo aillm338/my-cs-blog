@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# VitePress build output (Cloudflare 会自己构建，不需要提交)
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
